@@ -1,4 +1,10 @@
-export const metadata = { title: 'Next.js Stripe Starter' };
+import './globals.css';
+
+export const metadata = {
+  title: 'Stepwise — Make your next move possible',
+  description:
+    'Fund a career credential, help someone take their next step, and follow the outcome.',
+};
 
 export default function RootLayout({ children }) {
   return (
