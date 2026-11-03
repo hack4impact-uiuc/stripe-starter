@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Stepwise — Make your next move possible',
+  title: 'NextStep — Make your next move possible',
   description:
     'Fund a career credential, help someone take their next step, and follow the outcome.',
 };
